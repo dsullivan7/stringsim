@@ -1,0 +1,6 @@
+{
+    "name":"stringsim",
+    "description":"an implementation of jaro winkler string distance",
+    "author":"Danny Sullivan <dsullivan7@hotmail.com>",
+    "engine":"node 0.10.21"
+}
